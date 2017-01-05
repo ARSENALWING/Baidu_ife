@@ -32,3 +32,7 @@
 3、CCS3 calc()  
 使用calc()可以方便的在ccs中进行一些简单的运算。  
 
+4、background-position和background-size  
+可以通过background-position控制背景的位置，属性的值有：  
+（1）x，y坐标，单位有%和px；  
+（2）left,right,center,top,bottom。可同时使用两个值进行描述，如left center，如只指定一个值，默认另一个值为center。
