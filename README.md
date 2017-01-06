@@ -46,3 +46,5 @@
     -o-transition: prop time;
     transition: prop time;
 ```
+5、媒体查询  
+使用媒体查询@media 应把其对应的样式写在css的后面，避免被覆盖。
