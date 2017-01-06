@@ -36,3 +36,13 @@
 可以通过background-position控制背景的位置，属性的值有：  
 （1）x，y坐标，单位有%和px；  
 （2）left,right,center,top,bottom。可同时使用两个值进行描述，如left center，如只指定一个值，默认另一个值为center。
+
+4、transition  
+动画过度。
+```angular2html
+    -webkit-transition: prop time;
+    -moz-transition: prop time;
+    -ms-transition: prop time;
+    -o-transition: prop time;
+    transition: prop time;
+```
